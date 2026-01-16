@@ -45,7 +45,7 @@ makepkg -si
 ## Links
 
 > [!CAUTION]
-> This repo is actually a mirror. Don't make an edits here, directly.
+> This repo is actually a mirror. Don't make any edits here, directly.
 
 You can find the original link to the official AUR page here: https://aur.archlinux.org/packages/arturo
 
