@@ -12,6 +12,8 @@
 
 <!--ts-->
    * [Installation](#installation)
+      * [Using an AUR helper](#using-an-aur-helper)
+      * [Manually](#manually)
    * [Links](#links)
    * [License](#license)
 <!--te-->
@@ -20,14 +22,20 @@
 
 ## Installation
 
-Using an AUR helper:
+### Using an AUR helper
+
+To install Arturo, all you have to do is:
 ```bash
 yay -S arturo
-# or
+```
+or:
+```
 paru -S arturo
 ```
 
-Manual installation:
+### Manually
+
+This package can be also installed manually:
 ```bash
 git clone https://aur.archlinux.org/arturo.git
 cd arturo
